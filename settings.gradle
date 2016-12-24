@@ -1,0 +1,6 @@
+include ':app', ':android-sdk-0.2.1-aar-with-dependencies'
+//include other modules here
+//include ':core'
+//include ':analytics'
+//include ':push'
+//include ':cloudant'

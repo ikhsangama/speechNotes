@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Unicorn Notes</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="speechNotesActivity">Unicorn Notes</string>
+    <string formatted="false" name="speechNotesFormFormActivity"></string>
+</resources>
+
